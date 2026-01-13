@@ -1,0 +1,13 @@
+[submodule "external/ros-industrial_vda5050_client"]
+	path = external/ros-industrial_vda5050_client
+	url = git@github.com:ros-industrial/vda5050_client.git
+[submodule "external/ros-industrial_vda5050_interfaces"]
+	path = external/ros-industrial_vda5050_interfaces
+	url = git@github.com:ros-industrial/vda5050_interfaces.git
+[submodule "external/sauk2_vda5050_client_exec_proto"]
+	path = external/sauk2_vda5050_client_exec_proto
+	url = git@github.com:sauk2/vda5050_client.git
+	branch = throwaway/execution-prototype
+[submodule "external/VDA5050_spec"]
+	path = external/VDA5050_spec
+	url = git@github.com:VDA5050/VDA5050.git
